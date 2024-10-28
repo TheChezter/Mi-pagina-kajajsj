@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>   
+    Esta es mi pagina que no se como se hace esta rara
+    
+
+    <script>
+        function cambiarMensaje() {
+            document.getElementById("mensaje").textContent = "¡HOlaaaaaa JACKELINE si estas leyendo esto es porque si funciono jsjdhnjwjdfjnekjnfjnkd!";
+        }
+    </script>
+</body>
+</html>
